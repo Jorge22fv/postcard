@@ -8,6 +8,7 @@ body {
 	width: 400px;
 	height: 300px;
 	margin: auto;
+	padding: 20px;
 }
 .postcard-header {
 	display: flex;
@@ -42,6 +43,7 @@ input {
 }
 .postcard-footer {
 	text-align: center;
+	margin-top: 30px;
 }
 
 a:hover {
